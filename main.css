@@ -1,0 +1,39 @@
+#shs {
+  max-width: 100px;
+  margin-left:  25px;
+  margin-top: 10px;
+}
+#nav{
+  height: 25px;
+}
+#carousel {
+  width: 100%;
+}
+.imgCa {
+  width: 1000px;
+}
+#textoBotonUno {
+  text-align: center;
+  font-size: 25px;
+  margin: 5px;
+}
+#marginBotonUno{
+  margin-bottom: : 20px;
+}
+#primariaInfoFoto{
+  width: 400px;
+}
+.Informes {
+  display: flex;
+  align-items: center;
+}
+#sexo{
+  margin-left: 15px;
+}
+#linea4Form{
+  display: flex;
+  align-items: center;
+}
+#videoPrimaria{
+  margin-top: 40px;
+}
